@@ -1,0 +1,15 @@
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\obj\Debug\net6.0\Algorithms_Programs.csproj.AssemblyReference.cache
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\obj\Debug\net6.0\Algorithms_Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\obj\Debug\net6.0\Algorithms_Programs.AssemblyInfoInputs.cache
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\obj\Debug\net6.0\Algorithms_Programs.AssemblyInfo.cs
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\obj\Debug\net6.0\Algorithms_Programs.csproj.CoreCompileInputs.cache
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\bin\Debug\net6.0\Algorithms_Programs.exe
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\bin\Debug\net6.0\Algorithms_Programs.deps.json
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\bin\Debug\net6.0\Algorithms_Programs.runtimeconfig.json
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\bin\Debug\net6.0\Algorithms_Programs.dll
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\bin\Debug\net6.0\Algorithms_Programs.pdb
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\obj\Debug\net6.0\Algorithms_Programs.dll
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\obj\Debug\net6.0\refint\Algorithms_Programs.dll
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\obj\Debug\net6.0\Algorithms_Programs.pdb
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\obj\Debug\net6.0\Algorithms_Programs.genruntimeconfig.cache
+C:\Users\Humera\source\repos\Algorithms_Programs\Algorithms_Programs\obj\Debug\net6.0\ref\Algorithms_Programs.dll

@@ -1,0 +1,5 @@
+C:\Users\Humera\source\repos\Algorithms_Programs\OrderedList\obj\Debug\net6.0\OrderedList.csproj.AssemblyReference.cache
+C:\Users\Humera\source\repos\Algorithms_Programs\OrderedList\obj\Debug\net6.0\OrderedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humera\source\repos\Algorithms_Programs\OrderedList\obj\Debug\net6.0\OrderedList.AssemblyInfoInputs.cache
+C:\Users\Humera\source\repos\Algorithms_Programs\OrderedList\obj\Debug\net6.0\OrderedList.AssemblyInfo.cs
+C:\Users\Humera\source\repos\Algorithms_Programs\OrderedList\obj\Debug\net6.0\OrderedList.csproj.CoreCompileInputs.cache

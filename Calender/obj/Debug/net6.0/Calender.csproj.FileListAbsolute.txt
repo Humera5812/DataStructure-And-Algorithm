@@ -1,0 +1,15 @@
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\obj\Debug\net6.0\Calender.csproj.AssemblyReference.cache
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\obj\Debug\net6.0\Calender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\obj\Debug\net6.0\Calender.AssemblyInfoInputs.cache
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\obj\Debug\net6.0\Calender.AssemblyInfo.cs
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\obj\Debug\net6.0\Calender.csproj.CoreCompileInputs.cache
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\bin\Debug\net6.0\Calender.exe
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\bin\Debug\net6.0\Calender.deps.json
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\bin\Debug\net6.0\Calender.runtimeconfig.json
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\bin\Debug\net6.0\Calender.dll
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\bin\Debug\net6.0\Calender.pdb
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\obj\Debug\net6.0\Calender.dll
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\obj\Debug\net6.0\refint\Calender.dll
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\obj\Debug\net6.0\Calender.pdb
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\obj\Debug\net6.0\Calender.genruntimeconfig.cache
+C:\Users\Humera\source\repos\Algorithms_Programs\Calender\obj\Debug\net6.0\ref\Calender.dll
